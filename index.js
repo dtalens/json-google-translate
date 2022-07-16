@@ -2,13 +2,13 @@
  * TODO(developer): Specify the target language code below
  * This script auto-detects source language
  */
-var target = "ar"; //Arabic
+var target = "ca"; //Català
 
 /**
  * TODO(developer): Specify the source and targe JSON file paths
  */
-var targetJSON = "test-ar.json";
-var sourceJSON = "test-en.json";
+var targetJSON = "en.json";
+var sourceJSON = "ca.json";
 
 var fs = require("fs");
 
